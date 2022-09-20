@@ -1,0 +1,1 @@
+<img src="coffee-machine.gif">

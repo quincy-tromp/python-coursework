@@ -1,0 +1,1 @@
+<img src="snake-game-pt1.gif">

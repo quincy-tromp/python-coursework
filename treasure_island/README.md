@@ -1,0 +1,1 @@
+<img src="treasure-island.gif">

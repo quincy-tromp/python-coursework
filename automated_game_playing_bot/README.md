@@ -1,0 +1,1 @@
+<img src="cookie-clicker.gif">

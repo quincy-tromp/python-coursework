@@ -1,0 +1,1 @@
+<img src="number-guessing-game.gif">

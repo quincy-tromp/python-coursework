@@ -1,0 +1,1 @@
+<img src="nato-phonetic-alphabet.gif">

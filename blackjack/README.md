@@ -1,0 +1,1 @@
+<img src="blackjack.gif">
