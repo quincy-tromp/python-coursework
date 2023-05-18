@@ -3,7 +3,7 @@
 This repo is part of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" course from Udemy. 
 
 ## Course Content
-👨🏻‍🎓 Beginner
+> 👨🏻‍🎓 Beginner
 1. Working with Variables in Python to Manage Data
 2. Understanding Data Types and How to Manipulate Strings
 3. Control Flow and Logical Operators
@@ -18,7 +18,7 @@ This repo is part of "100 Days of Code: The Complete Python Pro Bootcamp for 202
 12. Scope and Namespacing in Python
 13. Debugging: How to Find and Fix Errors in your Code
 14. Higher Lower Game Project
-🏋🏻‍♂️ Intermediate
+> 🏋🏻‍♂️ Intermediate
 15. Local Development Environment Setup & the Coffee Machine Project
 16. Object Oriented Programming (OOP)
 17. The Quiz Project & the Benefits of OOP
@@ -36,7 +36,7 @@ This repo is part of "100 Days of Code: The Complete Python Pro Bootcamp for 202
 29. Building a Password Manager GUI App with Tkinter
 30. Errors, Exceptions and JSON Data: Improving the Password Manager
 31. Capstone Project - Flash Card App
-💪 Intermediate+
+> 💪 Intermediate+
 32. Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
 33. API Endpoints and API Parameters - ISS Overhead Notifier
 34. API Practice - Creating a GUI Quiz App
@@ -63,7 +63,7 @@ This repo is part of "100 Days of Code: The Complete Python Pro Bootcamp for 202
 55. HTML & URL Parsing in Flask and the Higher Lower Game
 56. Rendering HTML/Static Files and Name Card Project
 58. Bootstrap
-🚀 Advanced
+> 🚀 Advanced
 59. Upgraded Blog with Bootstrap
 60. HTML Forms with Flask
 61. Building Advanced Forms with WTForms
@@ -86,7 +86,7 @@ This repo is part of "100 Days of Code: The Complete Python Pro Bootcamp for 202
 78. Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
 79. The Tragic Discovery of Handwashing: t-Tests & Distributions
 80. Capstone Project - Predict House Prices
-👨‍💻 Professional
+> 👨‍💻 Professional
 81. Portfolio Project - Text to Morse Code Converter
 82. Portfolio Project - A website to show off your skills and the things I built
 83. Portfolio Project - Built a text-based version of the Tic Tac Toe game
