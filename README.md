@@ -3,7 +3,7 @@
 This repo is part of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" course from Udemy. 
 
 ## Course Content
-> 👨🏻‍🎓 Beginner
+👨🏻‍🎓 Beginner
 Day 1: Working with Variables in Python to Manage Data
 Day 2: Understanding Data Types and How to Manipulate Strings
 Day 3: Control Flow and Logical Operators
@@ -18,7 +18,7 @@ Day 11: Blackjack Capstone Project
 Day 12: Scope and Namespacing in Python
 Day 13: Debugging: How to Find and Fix Errors in your Code
 Day 14: Higher Lower Game Project
-> 🏋🏻‍♂️ Intermediate
+🏋🏻‍♂️ Intermediate
 Day 15: Local Development Environment Setup & the Coffee Machine Project
 Day 16: Object Oriented Programming (OOP)
 Day 17: The Quiz Project & the Benefits of OOP
@@ -36,7 +36,7 @@ Day 28: Tkinter, Dynamic Typing and the Pomodoro GUI Application
 Day 29: Building a Password Manager GUI App with Tkinter
 Day 30: Errors, Exceptions and JSON Data: Improving the Password Manager
 Day 31: Capstone Project - Flash Card App
-> 💪 Intermediate+
+💪 Intermediate+
 Day 32: Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
 Day 33: API Endpoints and API Parameters - ISS Overhead Notifier
 Day 34: API Practice - Creating a GUI Quiz App
@@ -64,7 +64,7 @@ Day 55: HTML & URL Parsing in Flask and the Higher Lower Game
 Day 56: Rendering HTML/Static Files and Name Card Project
 Day 57: Templating with Jinja and Blog Project
 Day 58: Bootstrap
-> 🚀 Advanced
+🚀 Advanced
 Day 59: Upgraded Blog with Bootstrap
 Day 60: HTML Forms with Flask
 Day 61: Building Advanced Forms with WTForms
@@ -87,7 +87,7 @@ Day 77: Linear Regression and Data Visualisation with Seaborn
 Day 78: Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
 Day 79: The Tragic Discovery of Handwashing: t-Tests & Distributions
 Day 80: Capstone Project - Predict House Prices
-> 👨‍💻 Professional
+👨‍💻 Professional
 Day 81: Portfolio Project - Text to Morse Code Converter
 Day 82: Portfolio Project - A website to show off your skills and the things I built
 Day 83: Portfolio Project - Built a text-based version of the Tic Tac Toe game
