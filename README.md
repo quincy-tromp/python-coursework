@@ -2,7 +2,7 @@
 
 This repo is part of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" course from Udemy. 
 
-### Course Content
+### Course Content:
 > 👨🏻‍🎓 Beginner
 1. Working with Variables in Python to Manage Data
 2. Understanding Data Types and How to Manipulate Strings
