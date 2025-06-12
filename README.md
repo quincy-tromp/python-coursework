@@ -1,6 +1,4 @@
-# 100-days-of-Python
-
-This repo is part of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" course from Udemy. 
+# Python 101
 
 ### Course Content:
 > 👨🏻‍🎓 Beginner
